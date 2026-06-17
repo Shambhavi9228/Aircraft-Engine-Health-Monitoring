@@ -18,3 +18,11 @@ NASA C-MAPSS Turbofan Engine Dataset
 - Engine Health Monitoring
 - RUL Prediction
 - Predictive Maintenance
+
+## Dataset
+
+This project uses the NASA C-MAPSS Turbofan Engine Degradation Dataset.
+
+Due to GitHub storage limitations, the dataset files are not included in this repository.
+
+Users can download the dataset from the NASA C-MAPSS dataset source and place the files in a local `data/` directory before running the project.
