@@ -56,6 +56,24 @@ The LSTM model was successfully trained on the NASA C-MAPSS FD001 dataset and le
 * Trained Model: `engine_model.h5`
 * Loss Curve: `loss_curve.png`
 
+## Results
+
+### Training Loss Curve
+
+![Training Loss](results/loss_curve.png)
+
+### Model Performance
+
+| Metric          | Value   |
+| --------------- | ------- |
+| Training Loss   | 1617.67 |
+| Validation Loss | 2712.76 |
+| Training MAE    | 29.42   |
+| Validation MAE  | 38.00   |
+
+The LSTM model was trained on the NASA C-MAPSS FD001 dataset to predict Remaining Useful Life (RUL) of aircraft engines.
+
+
 ## Applications
 
 * Aircraft Predictive Maintenance
