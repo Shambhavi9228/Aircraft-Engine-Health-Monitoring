@@ -38,6 +38,24 @@ Note: The dataset files are not included in this repository due to GitHub storag
 6. Remaining Useful Life Prediction
 7. Model Evaluation
 
+## Results
+
+### Model Performance
+
+* Training Loss: 1617.67
+* Validation Loss: 2712.76
+* Training MAE: 29.42
+* Validation MAE: 38.00
+
+### Training Output
+
+The LSTM model was successfully trained on the NASA C-MAPSS FD001 dataset and learned degradation patterns from aircraft engine sensor data.
+
+### Generated Artifacts
+
+* Trained Model: `engine_model.h5`
+* Loss Curve: `loss_curve.png`
+
 ## Applications
 
 * Aircraft Predictive Maintenance
