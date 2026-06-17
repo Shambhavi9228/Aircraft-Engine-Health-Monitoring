@@ -45,6 +45,19 @@ Note: The dataset files are not included in this repository due to GitHub storag
 * Failure Prediction
 * Reliability Engineering
 
+## Project Structure
+
+Aircraft-Engine-Health-Monitoring/
+│
+├── src/
+├── results/
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+
+
+
 ## Author
 
 Panjala Shambhavi
